@@ -6,7 +6,7 @@ A real-time Machine Learning dashboard that analyzes transaction risk and predic
 
 # 🚀 Live Demo
 
-🔗 Live App: YOUR_STREAMLIT_LINK_HERE
+🔗 Live App: https://credit-card-fraud-detection-sanjula2003.streamlit.app/
 
 🔗 GitHub Repository: https://github.com/Sanjula2003/credit-card-fraud-detection
 
